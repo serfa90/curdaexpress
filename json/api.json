@@ -1,0 +1,234 @@
+[
+    {
+      "precio": 800,
+      "id": 1,
+      "title": "Fernet Branca 750ml",
+      "imagen": "imagenes/fernet-branca-750ml.jpg",
+      "category": "Fernet"
+    },
+    {
+      "precio": 2400,
+      "id": 2,
+      "title": "Ron Santa Teresa 750ml",
+      "imagen": "imagenes/santa-teresa.png",
+      "category": "Ron"
+    },
+    {
+      "precio": 1500,
+      "id": 3,
+      "title": "Vodka Absolut 750ml",
+      "imagen": "imagenes/absolut.jpg",
+      "category": "Vodka"
+    },
+    {
+      "precio": 200,
+      "id": 4,
+      "title": "Cerveza Grolsch 1L",
+      "imagen": "imagenes/grolsch.jpg",
+      "category": "Birra"
+    },
+    {
+      "precio": 200,
+      "id": 5,
+      "title": "Coca-Cola 2,25Lts",
+      "imagen": "imagenes/cocaCola.jpg",
+      "category": "Mezcladores"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Bolsa Hielo 3kg",
+      "imagen": "imagenes/hielo.png",
+      "category": "Mezcladores"
+    },
+    {
+      "precio": 2800,
+      "id": 7,
+      "title": "Whisky Old Parr 12 años 750ml",
+      "imagen": "imagenes/old-parr.jpg",
+      "category": "Whisky"
+    },
+    {
+      "precio": 700,
+      "id": 8,
+      "title": "Vodka Skyy 750ml",
+      "imagen": "imagenes/skyy.jpg",
+      "category": "Vodka"
+    },
+    {
+      "precio": 900,
+      "id": 9,
+      "title": "Vodka Smirnoff 750ml",
+      "imagen": "imagenes/smirnoff.jpg",
+      "category": "Vodka"
+    },
+    {
+      "precio": 850,
+      "id": 10,
+      "title": "Vodka Stolichnaya 750ml",
+      "imagen": "imagenes/stolichnaya.png",
+      "category": "Vodka"
+    },
+    {
+      "precio": 700,
+      "id": 11,
+      "title": "Ron Barceló Dorado 750ml",
+      "imagen": "imagenes/barcelo.jpg",
+      "category": "Ron"
+    },
+    {
+      "precio": 700,
+      "id": 12,
+      "title": "Vodka Absolut Grapefruit 750ml",
+      "imagen": "imagenes/absolut-grapefruit.jpg",
+      "category": "Vodka"
+    },
+    {
+      "precio": 1050,
+      "id": 13,
+      "title": "Ron Bacardí Oro 750ml",
+      "imagen": "imagenes/bacardi.jpg",
+      "category": "Ron"
+    },
+    {
+      "precio": 7000,
+      "id": 14,
+      "title": "Ron Zacapa Solera 23 años 750ml",
+      "imagen": "imagenes/zacapa.jpg",
+      "category": "Ron"
+    },
+    {
+      "precio": 3000,
+      "id": 15,
+      "title": "Whisky JW Black Label 750ml",
+      "imagen": "imagenes/johnnie-walker.png",
+      "category": "Whisky"
+    },
+    {
+      "precio": 2600,
+      "id": 16,
+      "title": "Bourbon Jack Daniels 750ml",
+      "imagen": "imagenes/jack-daniels.jpg",
+      "category": "Whisky"
+    },
+    {
+      "precio": 850,
+      "id": 17,
+      "title": "Fernet Branca Menta 750ml",
+      "imagen": "imagenes/branca-menta.jpg",
+      "category": "Fernet"
+    },
+    {
+      "precio": 500,
+      "id": 18,
+      "title": "Fernet 1882 750ml",
+      "imagen": "imagenes/fernet1882.jpg",
+      "category": "Fernet"
+    },
+    {
+      "precio": 350,
+      "id": 19,
+      "title": "Malbec La Poderosa 750ml",
+      "imagen": "imagenes/tinto-lapoderosa.jpg",
+      "category": "Vino"
+    },
+    {
+      "precio": 300,
+      "id": 20,
+      "title": "Malbec Finca Las Moras 750ml",
+      "imagen": "imagenes/lasMorasSelect.jpg",
+      "category": "Vino"
+    },
+    {
+      "precio": 1280,
+      "id": 21,
+      "title": "Fernet Nero 53 750ml",
+      "imagen": "imagenes/nero53.jpg",
+      "category": "Fernet"
+    },
+    {
+      "precio": 220,
+      "id": 22,
+      "title": "Cerveza Imerial APA 1L",
+      "imagen": "imagenes/apa-imperial.jpg",
+      "category": "Birra"
+
+    },
+    {
+      "precio": 220,
+      "id": 23,
+      "title": "Andes Roja 1L",
+      "imagen": "imagenes/andes-roja.jpg",
+      "category": "Birra"
+    },
+    {
+      "precio": 220,
+      "id": 23,
+      "title": "Cerveza Amnstel 1L",
+      "imagen": "imagenes/amstel.jpg",
+      "category": "Birra"
+    },
+    {
+      "precio": 170,
+      "id": 24,
+      "title": "Jugo Citric 750ml",
+      "imagen": "imagenes/citric.jpg",
+      "category": "Mezcladores"
+    },
+    {
+      "precio": 2500,
+      "id": 25,
+      "title": "Amargo De Angostura 200ml",
+      "imagen": "imagenes/amargo.jpg",
+      "category": "Mezcladores"
+    },
+    {
+      "precio": 170,
+      "id": 26,
+      "title": "Sprite 2.25Lts",
+      "imagen": "imagenes/sprite.jpg",
+      "category": "Mezcladores"
+    },
+    {
+      "precio": 170,
+      "id": 27,
+      "title": "Schweppes Pomelo 2.25Lts",
+      "imagen": "imagenes/schweppes.jpg",
+      "category": "Mezcladores"
+    },
+    {
+      "precio": 200,
+      "id": 28,
+      "title": "Limón Minerva 200ml",
+      "imagen": "imagenes/minerva.jpg",
+      "category": "Mezcladores"
+    },
+    {
+      "precio": 600,
+      "id": 29,
+      "title": "Vino Blanco Cafayate 750ml",
+      "imagen": "imagenes/cafayate.jpg",
+      "category": "Vino"
+    },
+    {
+      "precio": 280,
+      "id": 30,
+      "title": "Emilia Blanco Dulce 750ml",
+      "imagen": "imagenes/blanco-emilia.jpg",
+      "category": "Vino"
+    },
+    {
+      "precio": 80,
+      "id": 31,
+      "title": "Aguakina Schweppes 355ml",
+      "imagen": "imagenes/aguakina.jpg",
+      "category": "Mezcladores"
+    },
+    {
+      "precio": 370,
+      "id": 32,
+      "title": "Portillo Cabernet Suavignon 750ml",
+      "imagen": "imagenes/portillo.jpg",
+      "category": "Vino"
+    }
+  ]
